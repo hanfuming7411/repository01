@@ -27,4 +27,6 @@ public interface GitTest {
 	
 	public void test2222();
 	
+	public void test555();
+	
 }
