@@ -14,5 +14,11 @@ public interface GitTest {
 	
 	public void test06();
 	
+	public void test077();
+	
+	public void test88();
+	
+	
+	
 
 }
