@@ -19,6 +19,6 @@ public interface GitTest {
 	public void test88();
 	
 	
-	
+	public void test999();
 
 }
