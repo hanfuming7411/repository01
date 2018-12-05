@@ -22,4 +22,9 @@ public interface GitTest {
 	public void test999();
 
 	public void test1000();
+	
+	public void test1111();
+	
+	public void test2222();
+	
 }
