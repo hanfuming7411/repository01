@@ -21,4 +21,5 @@ public interface GitTest {
 	
 	public void test999();
 
+	public void test1000();
 }
