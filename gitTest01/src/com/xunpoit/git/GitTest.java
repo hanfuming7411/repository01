@@ -30,5 +30,8 @@ public interface GitTest {
 	public void test555();
 	
 	public void method11();
+	public void method22();
+	public void method33();
+	public void method44();
 	
 }
