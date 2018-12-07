@@ -15,5 +15,10 @@ public class MyTest01 {
 		System.out.println("999999");
 		System.out.println("999999");
 		System.out.println("999999");
+		
+		System.out.println("888888888888");
+		System.out.println("888888888888");
+		System.out.println("888888888888");
+		System.out.println("888888888888");
 	}
 }
