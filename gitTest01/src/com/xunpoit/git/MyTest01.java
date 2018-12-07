@@ -6,5 +6,9 @@ public class MyTest01 {
 		System.out.println("1111111111");
 		System.out.println("1111111111");
 		System.out.println("1111111111");
+		
+		System.out.println("222222222");
+		System.out.println("222222222");
+		System.out.println("222222222");
 	}
 }
